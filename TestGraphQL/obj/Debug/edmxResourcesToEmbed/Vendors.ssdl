@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VendorsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Journal">
+    <Key>
+      <PropertyRef Name="JournalSubCode" />
+    </Key>
+    <Property Name="Journal" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="IsPMC" Type="bit" />
+    <Property Name="JournalTypeID" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="IsSold" Type="bit" />
+    <Property Name="JournalPriority" Type="smallint" />
+    <Property Name="JournalSubCode" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Journals_JournalOwner" Type="int" />
+    <Property Name="JournalFullName" Type="nvarchar(max)" />
+    <Property Name="GalleyproofDirection" Type="nvarchar" MaxLength="50" />
+    <Property Name="ActiveIntegrationTool" Type="bit" />
+    <Property Name="ProductionEditor" Type="int" />
+    <Property Name="VendorId" Type="int" Nullable="false" />
+    <Property Name="JournalOwnerId" Type="int" />
+    <Property Name="Issn" Type="varchar" MaxLength="50" />
+    <Property Name="EIssn" Type="varchar" MaxLength="50" />
+    <Property Name="RevisionRatio" Type="int" />
+    <Property Name="MethodId" Type="int" Nullable="false" />
+    <Property Name="ManuscriptCounter" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Manuscript">
+    <Key>
+      <PropertyRef Name="ManuscriptId" />
+    </Key>
+    <Property Name="ManuscriptId" Type="int" Nullable="false" />
+    <Property Name="JournalSubCode" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="VendorId" Type="int" Nullable="false" />
+    <Property Name="Closed" Type="bit" Nullable="false" />
+    <Property Name="ClosedDate" Type="datetime" />
+    <Property Name="Paused" Type="bit" Nullable="false" />
+    <Property Name="Withdrawn" Type="bit" Nullable="false" />
+    <Property Name="MsPages" Type="int" />
+    <Property Name="AuthorConfirmed" Type="bit" Nullable="false" />
+    <Property Name="OriginalFilesDownloaded" Type="bit" Nullable="false" />
+    <Property Name="CMSURL" Type="nvarchar" MaxLength="250" />
+    <Property Name="Fig_relabel" Type="int" />
+    <Property Name="Fig_redraw" Type="int" />
+    <Property Name="Clipart" Type="int" />
+    <Property Name="PixelByPixel" Type="int" />
+    <Property Name="ref_count" Type="int" />
+    <Property Name="Tables_Num" Type="int" />
+    <Property Name="Other_Annexes" Type="int" />
+    <Property Name="StopIndexing" Type="bit" />
+    <Property Name="StopIndexingDate" Type="datetime" />
+    <Property Name="UnderCorrection" Type="bit" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="InsertionDate" Type="datetime" />
+    <Property Name="UpdateVolumeCheckStatus" Type="int" />
+    <Property Name="InlineEquation" Type="int" />
+    <Property Name="DisplayedEquation" Type="int" />
+    <Property Name="changeProofStatus" Type="int" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserMail" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="SwitchAccount" Type="nvarchar" MaxLength="150" />
+    <Property Name="EmployeeID" Type="int" />
+  </EntityType>
+  <Association Name="FK_Journal_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="Journal" Type="Self.Journal" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Journal">
+        <PropertyRef Name="ProductionEditor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Manuscript_Journal">
+    <End Role="Journal" Type="Self.Journal" Multiplicity="1" />
+    <End Role="Manuscript" Type="Self.Manuscript" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Journal">
+        <PropertyRef Name="JournalSubCode" />
+      </Principal>
+      <Dependent Role="Manuscript">
+        <PropertyRef Name="JournalSubCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Manuscript_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="Manuscript" Type="Self.Manuscript" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Manuscript">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="VendorsModelStoreContainer">
+    <EntitySet Name="Journal" EntityType="Self.Journal" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Manuscript" EntityType="Self.Manuscript" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Journal_Users" Association="Self.FK_Journal_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Journal" EntitySet="Journal" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Manuscript_Journal" Association="Self.FK_Manuscript_Journal">
+      <End Role="Journal" EntitySet="Journal" />
+      <End Role="Manuscript" EntitySet="Manuscript" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Manuscript_Users" Association="Self.FK_Manuscript_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Manuscript" EntitySet="Manuscript" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
