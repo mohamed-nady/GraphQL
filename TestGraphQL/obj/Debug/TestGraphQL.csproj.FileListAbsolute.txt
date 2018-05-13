@@ -1,0 +1,245 @@
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\obj\Debug\TestGraphQL.csprojResolveAssemblyReference.cache
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\ApplicationInsights.config
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\roslyn\csc.exe
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\roslyn\System.Collections.Immutable.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\roslyn\System.Reflection.Metadata.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\roslyn\vbc.exe
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\roslyn\VBCSCompiler.exe
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\roslyn\VBCSCompiler.exe.config
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\TestGraphQL.dll.config
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\TestGraphQL.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\TestGraphQL.pdb
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Antlr3.Runtime.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\EntityFramework.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\EntityFramework.SqlServer.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\FParsec-Pipes.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\FParsec.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\FParsecCS.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\FSharp.Core.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\GraphQL.Net.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\GraphQL.Parser.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Microsoft.AI.DependencyCollector.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Microsoft.AI.Web.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Microsoft.AI.WindowsServer.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Microsoft.ApplicationInsights.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Microsoft.Web.Infrastructure.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Newtonsoft.Json.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\System.Web.Helpers.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\System.Web.Mvc.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\System.Web.Optimization.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\System.Web.Razor.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\System.Web.WebPages.Deployment.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\System.Web.WebPages.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\System.Web.WebPages.Razor.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\WebGrease.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\EntityFramework.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\EntityFramework.SqlServer.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\FParsec.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\FParsec-Pipes.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\FParsecCS.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\FSharp.Core.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Microsoft.AI.DependencyCollector.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Microsoft.AI.Web.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Microsoft.AI.WindowsServer.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Microsoft.ApplicationInsights.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\System.Web.Helpers.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\System.Web.Mvc.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\System.Web.Optimization.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\System.Web.Razor.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\System.Web.WebPages.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\System.Web.WebPages.Deployment.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\System.Web.WebPages.Razor.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Antlr3.Runtime.pdb
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\bin\Newtonsoft.Json.xml
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\obj\Debug\TestGraphQL.dll
+D:\Graphql\GIT\TestGraphQL\TestGraphQL\obj\Debug\TestGraphQL.pdb
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\obj\Debug\TestGraphQL.csprojResolveAssemblyReference.cache
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\obj\Debug\TestGraphQL.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\obj\Debug\TestGraphQL.pdb
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\ApplicationInsights.config
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\roslyn\csc.exe
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\roslyn\System.Collections.Immutable.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\roslyn\System.Reflection.Metadata.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\roslyn\vbc.exe
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\roslyn\VBCSCompiler.exe
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\roslyn\VBCSCompiler.exe.config
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\TestGraphQL.dll.config
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\TestGraphQL.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\TestGraphQL.pdb
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Antlr3.Runtime.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\EntityFramework.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\EntityFramework.SqlServer.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\FParsec-Pipes.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\FParsec.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\FParsecCS.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\FSharp.Core.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\GraphQL.Net.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\GraphQL.Parser.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Microsoft.AI.DependencyCollector.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Microsoft.AI.Web.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Microsoft.AI.WindowsServer.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Microsoft.ApplicationInsights.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Microsoft.Web.Infrastructure.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Newtonsoft.Json.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\System.Web.Helpers.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\System.Web.Mvc.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\System.Web.Optimization.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\System.Web.Razor.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\System.Web.WebPages.Deployment.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\System.Web.WebPages.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\System.Web.WebPages.Razor.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\WebGrease.dll
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\GraphQL.Net.pdb
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\EntityFramework.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\EntityFramework.SqlServer.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\FParsec.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\FParsec-Pipes.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\FParsecCS.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\FSharp.Core.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Microsoft.AI.DependencyCollector.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Microsoft.AI.Web.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Microsoft.AI.WindowsServer.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Microsoft.ApplicationInsights.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\System.Web.Helpers.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\System.Web.Mvc.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\System.Web.Optimization.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\System.Web.Razor.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\System.Web.WebPages.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\System.Web.WebPages.Deployment.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\System.Web.WebPages.Razor.xml
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Antlr3.Runtime.pdb
+D:\Graphql\GIT\TestGraphQL - Copy\TestGraphQL\bin\Newtonsoft.Json.xml
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\obj\Debug\TestGraphQL.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\obj\Debug\TestGraphQL.pdb
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\ApplicationInsights.config
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\roslyn\csc.exe
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\roslyn\System.Collections.Immutable.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\roslyn\System.Reflection.Metadata.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\roslyn\vbc.exe
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\roslyn\VBCSCompiler.exe
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\roslyn\VBCSCompiler.exe.config
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\TestGraphQL.dll.config
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\TestGraphQL.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\TestGraphQL.pdb
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\Antlr3.Runtime.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\EntityFramework.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\EntityFramework.SqlServer.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\FParsec-Pipes.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\FParsec.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\FParsecCS.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\FSharp.Core.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\GraphQL.Parser.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\Microsoft.Web.Infrastructure.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\Newtonsoft.Json.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\System.Web.Helpers.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\System.Web.Mvc.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\System.Web.Optimization.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\System.Web.Razor.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\System.Web.WebPages.Deployment.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\System.Web.WebPages.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\System.Web.WebPages.Razor.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\WebGrease.dll
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\EntityFramework.xml
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\EntityFramework.SqlServer.xml
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\FParsec.xml
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\FParsec-Pipes.xml
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\FParsecCS.xml
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\FSharp.Core.xml
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\System.Web.Helpers.xml
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\System.Web.Mvc.xml
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\System.Web.Optimization.xml
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\System.Web.Razor.xml
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\System.Web.WebPages.xml
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\System.Web.WebPages.Deployment.xml
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\System.Web.WebPages.Razor.xml
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\Antlr3.Runtime.pdb
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\bin\Newtonsoft.Json.xml
+D:\Graphql\GIT\TestGraphQL - Copy - Copy\TestGraphQL\obj\Debug\TestGraphQL.csprojResolveAssemblyReference.cache
+D:\Course\GraphQL\TestGraphQL\bin\ApplicationInsights.config
+D:\Course\GraphQL\TestGraphQL\bin\roslyn\csc.exe
+D:\Course\GraphQL\TestGraphQL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Course\GraphQL\TestGraphQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Course\GraphQL\TestGraphQL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Course\GraphQL\TestGraphQL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Course\GraphQL\TestGraphQL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Course\GraphQL\TestGraphQL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Course\GraphQL\TestGraphQL\bin\roslyn\System.Collections.Immutable.dll
+D:\Course\GraphQL\TestGraphQL\bin\roslyn\System.Reflection.Metadata.dll
+D:\Course\GraphQL\TestGraphQL\bin\roslyn\vbc.exe
+D:\Course\GraphQL\TestGraphQL\bin\roslyn\VBCSCompiler.exe
+D:\Course\GraphQL\TestGraphQL\bin\roslyn\VBCSCompiler.exe.config
+D:\Course\GraphQL\TestGraphQL\bin\TestGraphQL.dll.config
+D:\Course\GraphQL\TestGraphQL\bin\TestGraphQL.dll
+D:\Course\GraphQL\TestGraphQL\bin\TestGraphQL.pdb
+D:\Course\GraphQL\TestGraphQL\bin\Antlr3.Runtime.dll
+D:\Course\GraphQL\TestGraphQL\bin\EntityFramework.dll
+D:\Course\GraphQL\TestGraphQL\bin\EntityFramework.SqlServer.dll
+D:\Course\GraphQL\TestGraphQL\bin\FParsec-Pipes.dll
+D:\Course\GraphQL\TestGraphQL\bin\FParsec.dll
+D:\Course\GraphQL\TestGraphQL\bin\FParsecCS.dll
+D:\Course\GraphQL\TestGraphQL\bin\FSharp.Core.dll
+D:\Course\GraphQL\TestGraphQL\bin\GraphQL.Parser.dll
+D:\Course\GraphQL\TestGraphQL\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Course\GraphQL\TestGraphQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Course\GraphQL\TestGraphQL\bin\Microsoft.Web.Infrastructure.dll
+D:\Course\GraphQL\TestGraphQL\bin\Newtonsoft.Json.dll
+D:\Course\GraphQL\TestGraphQL\bin\System.Web.Helpers.dll
+D:\Course\GraphQL\TestGraphQL\bin\System.Web.Mvc.dll
+D:\Course\GraphQL\TestGraphQL\bin\System.Web.Optimization.dll
+D:\Course\GraphQL\TestGraphQL\bin\System.Web.Razor.dll
+D:\Course\GraphQL\TestGraphQL\bin\System.Web.WebPages.Deployment.dll
+D:\Course\GraphQL\TestGraphQL\bin\System.Web.WebPages.dll
+D:\Course\GraphQL\TestGraphQL\bin\System.Web.WebPages.Razor.dll
+D:\Course\GraphQL\TestGraphQL\bin\WebGrease.dll
+D:\Course\GraphQL\TestGraphQL\bin\EntityFramework.xml
+D:\Course\GraphQL\TestGraphQL\bin\EntityFramework.SqlServer.xml
+D:\Course\GraphQL\TestGraphQL\bin\FParsec.xml
+D:\Course\GraphQL\TestGraphQL\bin\FParsec-Pipes.xml
+D:\Course\GraphQL\TestGraphQL\bin\FParsecCS.xml
+D:\Course\GraphQL\TestGraphQL\bin\FSharp.Core.xml
+D:\Course\GraphQL\TestGraphQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Course\GraphQL\TestGraphQL\bin\System.Web.Helpers.xml
+D:\Course\GraphQL\TestGraphQL\bin\System.Web.Mvc.xml
+D:\Course\GraphQL\TestGraphQL\bin\System.Web.Optimization.xml
+D:\Course\GraphQL\TestGraphQL\bin\System.Web.Razor.xml
+D:\Course\GraphQL\TestGraphQL\bin\System.Web.WebPages.xml
+D:\Course\GraphQL\TestGraphQL\bin\System.Web.WebPages.Deployment.xml
+D:\Course\GraphQL\TestGraphQL\bin\System.Web.WebPages.Razor.xml
+D:\Course\GraphQL\TestGraphQL\bin\Antlr3.Runtime.pdb
+D:\Course\GraphQL\TestGraphQL\bin\Newtonsoft.Json.xml
+D:\Course\GraphQL\TestGraphQL\obj\Debug\TestGraphQL.csprojResolveAssemblyReference.cache
+D:\Course\GraphQL\TestGraphQL\obj\Debug\TestGraphQL.dll
+D:\Course\GraphQL\TestGraphQL\obj\Debug\TestGraphQL.pdb
